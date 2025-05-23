@@ -1,7 +1,7 @@
 import csv
 
 # Path to your CSV file
-csv_file = 'issues.csv'
+csv_file = '"C:\Windows\issues.csv"'
 
 issues = []
 
